@@ -1,5 +1,5 @@
-/*1) Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade
-dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e o mês com 30 dias.
+/*1) FaÃ§a um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade
+dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e o mÃªs com 30 dias.
 Exemplo: Lucas tem 23 anos, 4 meses e 10 dias. Quantos dias de vida ele tem?*/
 
 #include <stdio.h>
@@ -23,4 +23,5 @@ int main ()
 	
 	return 0;
 }
+
 
