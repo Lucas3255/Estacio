@@ -9,8 +9,8 @@
   como desenvolvedor.</p>
 
 <h3>🎓 Curso</h3>
-<p><strong>Ciências da Computação</strong>
-Universidade Estácio - Campus Abdias de Carvalho
+<p><strong>Ciências da Computação</strong><br>
+Universidade Estácio - Campus Abdias de Carvalho<br>
 Período: 2025 - 2029</p>
 
 <h3>🧩 Disciplinas Incluídas</h3>
